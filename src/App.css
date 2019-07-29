@@ -1,0 +1,57 @@
+
+
+.b {
+  font-size: 5px;
+}
+
+
+.p {
+
+ font-size: 3px;
+
+}
+
+.dis {
+background-color: cornflowerblue; 
+position: absolute;
+height: 40px;
+width: 40px;
+line-height: 40px;
+text-align: center;
+border-radius: 40px;
+color: #fff;
+font-size: 1.5em;
+box-sizing: inherit;
+margin-right: 25px;
+margin-top: 10px;
+margin-left: 25px;
+}
+
+.email {
+  margin-left: 100px;
+}
+
+.email-head {
+  margin-left: 100px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.time {
+  
+  margin-top: -80px;
+  margin-right: 10px;
+  float: right;
+  
+}
+
+.list-group-item {
+  width: 100%;
+  border: 1px solid #DDD;
+  margin-top: 0px;
+}
+
+.list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
