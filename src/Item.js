@@ -91,7 +91,7 @@ class Item extends Component {
         subject : "Grab another Pass, you need to be watching this...",
         body : "Oscar winners Sir Anthony Hopkins and Ed Harris join an impressive cast boasting the likes of Thandie Newton, James Marsden and Jeffrey Wright.",
         smallname : "N",
-        time : "02.05",
+        time : "02.06",
         modifier: "list-group-item"
       },
       {
